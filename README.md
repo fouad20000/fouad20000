@@ -10,7 +10,7 @@
 ⚡ Fun fact: i like strategy game
 🌐 Socials:
 
-Discord [LinkedIn](https://linkedin.com/in/Fouad Alkadri)
+Discord [LinkedIn](https://linkedin.com/in/fouad-alkadri)
 💻 Tech Stack:
 
 CSS3 HTML5 Java JavaScript PHP Python AWS Firebase Anaconda Flask jQuery Apache Apache Ant Apache Maven MySQL Canva Keras NumPy Pandas Plotly PyTorch scikit-learn SciPy TensorFlow Jira Notion Docker
